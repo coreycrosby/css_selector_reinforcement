@@ -1,0 +1,16 @@
+p {
+    color: red;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.images ul > li{
+    display: inline-block;
+    padding: 1em;
+}
